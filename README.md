@@ -33,7 +33,7 @@ Each R file is a copy of a reprex available in a Gist entry:
 
 Get a local copy:
 
-1. Fork and clone the repository: <https://github.com/avallecam/epiversetracer>
+1. Fork and clone the repository: <https://github.com/avallecam/earlychallenges>
 2. Restore the R environment running:
 
 ```r
